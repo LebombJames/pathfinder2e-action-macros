@@ -7,8 +7,8 @@
 			"version": "0.0.2",
 			"minimumCoreVersion": "0.7.9",
 			"compatibleCoreVersion":"0.7.9",
-			"manifest": "https://raw.githubusercontent.com/LebombJames/pathfinder2e-action-macros/0.0.2/main/module.json",
-			"download": "https://github.com/LebombJames/pathfinder2e-action-macros/archive/v0.0.1.zip",
+			"manifest": "https://raw.githubusercontent.com/LebombJames/pathfinder2e-action-macros/main/module.json",
+			"download": "https://github.com/LebombJames/pathfinder2e-action-macros/archive/v0.0.2.zip",
 			"packs": [
     					{
       					"name": "actions",
