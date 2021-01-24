@@ -2,7 +2,7 @@
 		{
 			"name": "pathfinder2eactionmacros",
 			"title": "Pathfinder 2e Action Macros",
-			"description": "A module containing a compendium pack that includes macros to add all untrained actions, and trained actions split into each skill.",
+			"description": "A compendium pack that includes macros to add all untrained actions, and trained actions split into each skill.",
 			"author": "LebombJames",
 			"version": "0.0.1",
 			"minimumCoreVersion": "0.7.9",
