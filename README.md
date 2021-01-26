@@ -17,7 +17,7 @@ Then select the token you want to add actions to on the scene and excecute the m
 **Basic Actions** - Includes all Basic Actions, Speciality Basic Actions (excluding spell related ones), untrained skill actions and downtime/exploration activities.
 Note that Generic Skill Actions are inluded, regardless of if you are trained in any of their requirements.
 
-**[SKILL] Actions** - Includes all trained skill actions and downtime/exploration activies for the skill listed. 
+**[SKILL] Actions** - Includes all trained skill actions and downtime/exploration activities for the skill listed. 
 If there isn't a mancro for a particular skill, then there are no trained skill actions linked to that skill.
 
 **Spell Actions** - Includes all actions related to spellcasting.
