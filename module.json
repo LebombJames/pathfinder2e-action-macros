@@ -1,8 +1,8 @@
 
 		{
-			"name": "pathfinder2eactionmacros",
-			"title": "Pathfinder 2e Action Macros",
-			"description": "A compendium pack that includes a macro to add all untrained actions and trained actions, with options for each skill.",
+			"name": "pathfinder2eactionmacrosbb",
+			"title": "Pathfinder 2e Action Macros Button Beta test",
+			"description": "Currently testing buttons.A compendium pack that includes a macro to add all untrained actions and trained actions, with options for each skill.",
 			"author": "LebombJames","ProDumbass",
 			"version": "v1.1.0",
 			"minimumCoreVersion": "0.8.0",
@@ -10,15 +10,15 @@
 			"scripts": [
 				"./macro-button.js"
 				],
-			"manifest": "https://raw.githubusercontent.com/LebombJames/pathfinder2e-action-macros/main/module.json",
-			"download": "https://github.com/LebombJames/pathfinder2e-action-macros/archive/v1.0.0.zip",
+			"manifest": "https://raw.githubusercontent.com/Pro-Dumbass/pathfinder2e-action-macros-button-beta/main/module.json",
+			"download": "https://github.com/Pro-Dumbass/pathfinder2e-action-macros-button-beta/archive/refs/tags/v1.1.0-alpha.zip",
 			"packs": [
     					{
       					"name": "actions",
       					"label": "Actions",
       					"path": "packs/actions.db",
       					"entity": "Macro",
-      					"module": "Pathfinder 2e Action Macro"
+      					"module": "Pathfinder 2e Action Macro Button Beta test"
 						}
 					]
 		  }
