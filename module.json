@@ -1,24 +1,23 @@
-
-		{
-			"name": "pathfinder2eactionmacros",
-			"title": "Pathfinder 2e Action Macros",
-			"description": "A compendium pack that includes a macro to add all untrained actions and trained actions, with options for each skill.",
-			"author": "LebombJames",
-			"version": "v1.0.1",
-			"minimumCoreVersion": "0.8.0",
-			"compatibleCoreVersion":"0.8.7",
-      "scripts": [
-		"./macro-button.js"
-		],
-			"manifest": "https://raw.githubusercontent.com/LebombJames/pathfinder2e-action-macros/main/module.json",
-			"download": "https://github.com/LebombJames/pathfinder2e-action-macros/archive/v1.0.1.zip",
-			"packs": [
-    					{
-      					"name": "actions",
-      					"label": "Actions",
-      					"path": "packs/actions.db",
-      					"entity": "Macro",
-      					"module": "Pathfinder 2e Action Macros"
-						}
-					]
-		  }
+{
+    "name": "pathfinder2eactionmacros",
+    "title": "Pathfinder 2e Action Macros",
+    "description": "A compendium pack that includes a macro to add all untrained actions and trained actions, with options for each skill.",
+    "author": "LebombJames",
+    "version": "v1.0.1",
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "0.8.7",
+    "scripts": [
+        "./macro-button.js"
+    ],
+    "manifest": "https://raw.githubusercontent.com/LebombJames/pathfinder2e-action-macros/main/module.json",
+    "download": "https://github.com/LebombJames/pathfinder2e-action-macros/archive/v1.0.1.zip",
+    "packs": [
+        {
+            "name": "actions",
+            "label": "Actions",
+            "path": "packs/actions.db",
+            "entity": "Macro",
+            "module": "Pathfinder 2e Action Macros"
+        }
+    ]
+}
