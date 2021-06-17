@@ -18,6 +18,6 @@ function actionMacroExecute(targetActor){
   var MacroIdFinesse = game.macros.getName ("Add Actions Macro").data._id;
   console.log("Id acquired");
   console.log(MacroIdFinesse);
-  game.macros.get(MacroIdFinesse).execute;
+  MacroIdFinesse.execute(actor);
   console.log("Macro executed")
 }
