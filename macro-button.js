@@ -15,5 +15,6 @@ Hooks.on('renderActorSheet', function(obj, html){
 );
 
 function actionMacroExecute(targetActor){
-  bJM8RV1Ehis6zP7G.execute(actor)
+  var MacroIdFinesse = game.macros.getName ("Add Actions Macro");
+  MacroIdFinesse.execute(actor)
 }
