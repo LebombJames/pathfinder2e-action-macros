@@ -15,7 +15,7 @@
       					"label": "Actions",
       					"path": "packs/actions.db",
       					"entity": "Macro",
-      					"module": "Pathfinder 2e Action Macro"
+      					"module": "Pathfinder 2e Action Macros"
 						}
 					]
 		  }
