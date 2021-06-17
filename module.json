@@ -3,7 +3,7 @@
 			"name": "pathfinder2eactionmacros",
 			"title": "Pathfinder 2e Action Macros",
 			"description": "A compendium pack that includes a macro to add all untrained actions and trained actions, with options for each skill.",
-			"author": "LebombJames","ProDumbass"
+			"author": "LebombJames","ProDumbass",
 			"version": "v1.1.0",
 			"minimumCoreVersion": "0.8.0",
 			"compatibleCoreVersion":"0.8.7",
