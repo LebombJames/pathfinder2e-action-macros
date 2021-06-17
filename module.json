@@ -10,7 +10,7 @@
 		"./macro-button.js"
 		],
 	"manifest": "https://raw.githubusercontent.com/Pro-Dumbass/pathfinder2e-action-macros-button-beta/main/module.json",
-	"download": "https://github.com/Pro-Dumbass/pathfinder2e-action-macros-button-beta/archive/refs/tags/v1.1.0-alpha.zip",
+	"download": "https://github.com/Pro-Dumbass/pathfinder2e-action-macros-button-beta/archive/refs/tags/v0.1.5.zip",
 	"packs": [
     			{
       			"name": "actions",
