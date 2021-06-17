@@ -8,7 +8,7 @@ Hooks.on('renderActorSheet', function(obj, html){
   if (element.length != 1) return;
 
   let button = $(`<a class="popout" style><i class="fas fa-book"></i>Action import dialogue</a>`);
-  button.on('click', () => actionMacroExecute);
+  button.on('click', () => actionMacroExecute(obj.object));
   element.after(button);
   }
    
