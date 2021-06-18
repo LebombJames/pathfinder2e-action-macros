@@ -7,6 +7,14 @@ Manifest link: https://raw.githubusercontent.com/LebombJames/pathfinder2e-action
 On the Foundry setup screen, go to add-on modules and click Install Module at the bottom. Paste this link in the address box at the bottom.
 
 # Usage
+### **V1.1 And Newer**
+
+There is now a button on the sheet to run the macro. While most of the time running the macro this way works as intended, there are some cases it may add to the wrong sheet depending on the token selected/the actor linked to your Foundry user, so it's still best to place a token on the canvas and have it selected when you run it.
+
+Of course, you can still run the macro the old way if you wish.
+
+### **Previous Versions**
+
 After enabling the module, go to your compendium list and find the Actions compendium. Right click it and chose unlock. Then, drag the Add Actions Macro to your macro bar.
 
 *(Before running any macros, backup your actors! While there is now duplicate prevention, you may still add a bunch of actions you don't need or want!)*
