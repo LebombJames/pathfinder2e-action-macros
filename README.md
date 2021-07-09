@@ -20,6 +20,7 @@ After enabling the module, go to your compendium list and find the Actions compe
 *(Before running any macros, backup your actors! While there is now duplicate prevention, you may still add a bunch of actions you don't need or want!)*
 
 Then select the token you want to add actions to on the scene, excecute the macro, then choose your options and hit Add Actions.
+
 ![image](https://user-images.githubusercontent.com/77904738/122468922-3d091380-cfb4-11eb-8e75-9cedfea15184.png)
 
 # Options Explained
